@@ -1,0 +1,7 @@
+.djangoenv
+__pycache__
+.venv
+.db.sqlite3
+.vscode
+*.pyc
+.DS_Store
